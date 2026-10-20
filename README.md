@@ -1,2 +1,1 @@
-# python-programs
-python programs with output screenshots
+programs both python and java
